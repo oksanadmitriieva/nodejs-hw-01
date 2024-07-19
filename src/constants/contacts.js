@@ -1,1 +1,6 @@
-export const PATH_DB =
+// Импортируем модуль path из встроенной библиотеки Node.js
+import path from 'node:path';
+
+// Определяем константу PATH_DB, которая содержит путь к файлу базы данных контактов
+// Используем метод path.join для создания пути, совместимого с операционной системой
+export const PATH_DB = path.join('src', 'db', 'db.json');

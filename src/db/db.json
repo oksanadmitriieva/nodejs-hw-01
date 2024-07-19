@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Mr. Arturo Streich",
+    "phone": "1-734-481-5592",
+    "email": "Lauretta_Gutmann93@yahoo.com",
+    "job": "Central Research Representative"
+  },
+  {
+    "name": "Dr. Constance Klein",
+    "phone": "(349) 575-3940 x2800",
+    "email": "General.Walker@yahoo.com",
+    "job": "Customer Data Strategist"
+  },
+  {
+    "name": "Roxanne Blanda",
+    "phone": "932.931.0103 x1448",
+    "email": "Mavis_Kovacek3@hotmail.com",
+    "job": "Dynamic Tactics Developer"
+  }
+]
